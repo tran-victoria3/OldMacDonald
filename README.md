@@ -87,7 +87,7 @@ It turns out that baby chicks make two different sounds. Sometimes Some chicks s
 
 Finally, it also came to pass that the cows get a personal name, like Elsie.
 
-*Create a new class, `NamedCow`, that extends the Cow class, adding a constructor, a field for the Cow's name, and a new function: `getName`. Change the Cow's member variables from `private` to `protected`*
+*Create a new class, `NamedCow`, that extends the `Cow` class, adding a constructor, a field for the Cow's name, and a new function: `getName`. Change the `Cow` member variables from `private` to `protected` so that the `NamedCow` constructor can initialize them*
 
 The final Farm code to exercise all your modifications is shown here:
   ```java
